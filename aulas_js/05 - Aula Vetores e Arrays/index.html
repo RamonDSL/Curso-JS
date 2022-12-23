@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Condições</title>
+    <style>
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        button {
+            display: block;
+            margin: auto;
+            width: 100px;
+            height: 90px;
+            font-size: 1.4em;
+            margin-bottom: 20px;
+        }
+
+        #resultado {
+            display: inline;
+            margin: 10px;
+            padding: 10px;
+            font-size: 2em;
+            font-weight: bold;
+            text-align: center;
+            border: 1px solid black;
+            border-radius: 10px;
+        }
+
+        #nomecriativo {
+            margin: auto;
+            display: inline-block;
+            padding: 10px;
+            border: 2px double black;
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div id="nomecriativo">
+        <button onclick="mostrafrutas()">
+            não clique aqui
+        </button>
+        <div id="resultado">
+            ------
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
