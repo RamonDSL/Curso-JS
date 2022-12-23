@@ -16,3 +16,7 @@ https://ramondsl.github.io/Curso-JS/Aula - 014ex/ex016/index.html executar o exe
 https://ramondsl.github.io/Curso-JS/Aula - 014ex/ex017/index.html executar o exercício 017
 https://ramondsl.github.io/Curso-JS/Aula - 016ex/ex021/index.html executar o exercício 021
 
+Tópico não relacionado
+
+https://ramondsl.github.io/Curso-JS/HTML%20-%20Aulas/flexbox.html executar o teste de flexbox
+https://ramondsl.github.io/Curso-JS/HTML%20-%20Aulas/grid.htmll executar o teste de grid
