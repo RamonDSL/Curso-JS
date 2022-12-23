@@ -12,3 +12,7 @@ https://ramondsl.github.io/Curso-JS/Aula - 11/ex009.html executar o exercício 0
 https://ramondsl.github.io/Curso-JS/Aula - 11/ex010.html executar o exercício 010
 https://ramondsl.github.io/Curso-JS/Aula - 012ex/ex014/index.html executar o exercício 014
 https://ramondsl.github.io/Curso-JS/Aula - 012ex/ex015/index.html executar o exercício 015
+https://ramondsl.github.io/Curso-JS/Aula - 014ex/ex016/index.html executar o exercício 016
+https://ramondsl.github.io/Curso-JS/Aula - 014ex/ex017/index.html executar o exercício 017
+https://ramondsl.github.io/Curso-JS/Aula - 016ex/ex021/index.html executar o exercício 021
+
